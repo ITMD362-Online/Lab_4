@@ -6,7 +6,7 @@ http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
 ## A triadic color palette for announcing Chicago Botanical Gardens springtime tours
 
-- Your Palette URL: 
+- Your Palette URL: http://paletton.com/#uid=35r0u0k9TKY1SZz5CTQen-iiTsz
 - Your Rationale:
 
 ## A triadic color palette for styling the login page for a private messaging app
