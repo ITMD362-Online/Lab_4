@@ -4,7 +4,7 @@ http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 - Your Palette URL: 
 - Your Rationale:
 
-## A triadic color palette for announcing Chicago Botanical Gardens springtime tours.
+## A triadic color palette for announcing Chicago Botanical Gardens springtime tours
 
 - Your Palette URL: 
 - Your Rationale:
