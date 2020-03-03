@@ -17,4 +17,4 @@ http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 ## A monochromatic color palette for advertising a course on Ruby on Rails
 
 - Your Palette URL: http://paletton.com/#uid=15A0u0kl7DY00++2tWTGsrAJx7T
-- Your Rationale:
+- Your Rationale: The brand of Ruby on rails has a dominant presence of the colour red. Therefore, I selected a monochromatic color palette based on red, but not replicating the language's brand.
