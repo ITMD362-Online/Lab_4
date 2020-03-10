@@ -1,4 +1,3 @@
-http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 ## An adjacent color palette for introducing a new console gaming platform
 
 - Your Palette URL: http://paletton.com/#uid=300100kqREm00++4oYBKle9GY1V
