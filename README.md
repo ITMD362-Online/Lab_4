@@ -6,7 +6,7 @@
 ## A triadic color palette for announcing Chicago Botanical Gardens springtime tours
 
 - Your Palette URL: http://paletton.com/#uid=35r0u0k9TKY1SZz5CTQen-iiTsz
-- Your Rationale:
+- Your Rationale:For the Chicago Botanical Gardens springtime tours announcement I chose a triadic color palette based on different shades of pink and green. These colors are complimentary and appropriate for spring-time related projects.
 
 ## A triadic color palette for styling the login page for a private messaging app
 
